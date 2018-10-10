@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\Lab4\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\aleks\Desktop\Lab4\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\aleks\Desktop\Lab4\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4.2.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4._2.Form1.resources
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4._2.Properties.Resources.resources
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4.2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\aleks\Desktop\Lab4\Lab4.2\obj\Debug\Lab4.2.pdb
